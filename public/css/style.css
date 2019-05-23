@@ -1,0 +1,18 @@
+.inner-container
+{   
+    margin-top: 20px
+}
+
+.box
+{   
+    margin-top: 20px;
+    border: 2px solid grey;
+    border-radius: 5px;
+    height: 500px;
+    overflow: auto;
+}
+
+.message-box
+{
+    margin-top: 20px;   
+}
